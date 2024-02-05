@@ -1,3 +1,3 @@
-# Neural Network-Based Image Captioning with RNNs and LSTMs
+# Using CNN to detect Happy/Sad faces
 
 Description: This project details the development and implementation of a Convolutional Neural Network (CNN) aimed at classifying images into two categories: happy faces and sad faces. The project involves preprocessing the image data, designing the CNN architecture, training the model on a labeled dataset, and evaluating its performance. The notebook outlines each step of the process, from data handling to model optimization and evaluation. The project demonstrates a practical application of deep learning techniques in computer vision, emphasizing the ability to accurately interpret and classify emotional expressions in images.
